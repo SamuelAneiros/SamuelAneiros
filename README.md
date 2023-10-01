@@ -9,10 +9,10 @@ I've been a web developer since the turn of the millenium so it was about time t
  - Check the repos!
 
 ### My day jobs
- - 💻 Currently a Senior Fullstack Dev in [Noxvo](https://www.noxvo.com/), creating the internet since 2004.
- - 💻 2014-2017 a Technical Director in XDFactory Creatividad Digital, my own little web development agency along with my beautiful wife.
- - 💻 2009-2013 a Senior Backend developer in [UNIR](https://www.unir.net/), an international digital college campus.
- - 💻 2004-2009 a Project Lead Developer in [Grupo Open](https://www.grupo-open.es/), a small consulting firm based in Seville.
+ - 💻 2013 - currently a Senior Fullstack Dev in [Noxvo](https://www.noxvo.com/), "creating the internet since 2004".
+ - 💻 2014 - 2017 a Technical Director in XDFactory Creatividad Digital, my own little web development agency along with my beautiful wife.
+ - 💻 2009 - 2013 a Senior Backend developer in [UNIR](https://www.unir.net/), an international digital college campus.
+ - 💻 2004 - 2009 a Project Lead Developer in [Grupo Open](https://www.grupo-open.es/), a small consulting firm based in Seville.
 
 ### My other work
  - 🎙️ Currently the director in [Pasillo 8](https://pasillo8.es/), a fiction-focused community of creators currently in development.
@@ -27,8 +27,8 @@ I've been a web developer since the turn of the millenium so it was about time t
 
 ### My life
 
- - 👪🏻 I've been a husband for 11 years and a dad for 10
- - 🏙️ Based in Logroño, can frequently be found in Barcelona
+ - 👪🏻 I'm the third of four siblings, and I've been a husband for 11 years and a dad for 10
+ - 🏙️ Born in Cádiz, based in Logroño, can frequently be found in Barcelona
  - 🎮 My hobbies; videogames, tabletop games and RPGs, reading and creating culture (I'm a podcaster, an amateur writer, a vlogger...)
  - 🎼 Lately been listening to; Hozier, Daughtry, Royal Blood, Linkin Park, Halsey, Paramore
 
@@ -37,5 +37,6 @@ I've been a web developer since the turn of the millenium so it was about time t
  - 😌 Mostly chill outside
  - 🙃 Sometimes anxious inside
  - ☕ Coffee, bread, loads of water
+ - 🐉 Thinking of getting my first *big* tattoo
  - ❔ INFP-T (Mediator) personality type, if you're into that stuff
  - 🌈 LG**B**T human
