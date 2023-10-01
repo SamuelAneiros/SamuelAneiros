@@ -1,5 +1,9 @@
 # Hi, I am Samuel Aneiros
 I've been a web developer since the turn of the millenium so it was about time to get a personal github account. If you want to know me, here's a few facts (as of Oct 2023)
+### Find me online
+ - [Mastodon](https://mastorol.es/@monroe)
+ - [LinkedIn](https://www.linkedin.com/in/samuel-caparr%C3%B3s-aneiros-22a06054/)
+ - Email: &#x6c;&#x65;&#x74;&#x73;&period;&#x6d;&#x6f;&#x6e;&#x72;&#x6f;&#x65;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;
 ### Working on
 
  - Check the repos!
