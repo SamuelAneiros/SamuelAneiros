@@ -32,3 +32,4 @@ I've been a web developer since the turn of the millenium so it was about time t
  - 🙃 Sometimes anxious inside
  - ☕ Coffee, bread, loads of water
  - ❔ INFP-T (Mediator) personality type, if you're into that stuff
+ - 🌈 LG**B**T human
