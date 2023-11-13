@@ -9,7 +9,8 @@ I've been a web developer since the turn of the millenium so it was about time t
  - Check the repos!
 
 ### My day jobs
- - 💻 2013 - currently a Senior Fullstack Dev in [Noxvo](https://www.noxvo.com/), "creating the internet since 2004".
+ - 💻 2023 - currently a Senior Developer in [Avaibook](https://www.avaibook.com/).
+ - 💻 2013 - 2023 a Senior Fullstack Dev in [Noxvo](https://www.noxvo.com/), "creating the internet since 2004".
  - 💻 2014 - 2017 a Technical Director in XDFactory Creatividad Digital, my own little web development agency along with my beautiful wife.
  - 💻 2009 - 2013 a Senior Backend developer in [UNIR](https://www.unir.net/), an international digital college campus.
  - 💻 2004 - 2009 a Project Lead Developer in [Grupo Open](https://www.grupo-open.es/), a small consulting firm based in Seville.
